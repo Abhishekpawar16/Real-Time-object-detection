@@ -1,9 +1,3 @@
-This is complementary code for the video series that explains the implementation of yolo-v3 from scratch, [available here](https://www.youtube.com/playlist?list=PLbMqOoYQ3MxxArhAqvki_WoWBTCc8fDHG).
-.
-[My channel](http://www.youtube.com/channel/UCgpckFNtZEOSjPFpQf-Kn8w) for cutting edge deep learning projects.
-
-# Yolo-V3
-
 yolov3.cfg (236 MB COCO Yolo v3) - requires 4 GB GPU-RAM: https://pjreddie.com/media/files/yolov3.weights
 
 # Test:
